@@ -41,10 +41,11 @@
 
 ### What I learned
 
-There are so many advance properties that i learnt from things this project
+There are so many advance properties that i learnt from things this project.
 
 - Display Grid
 - responsive img
+
 
 
 
