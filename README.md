@@ -18,9 +18,9 @@
 
 ### Screenshot
 
-![Desktop view of solution](./desktop.png)
+![Desktop view of solution](./desktop.jpg)
 
-![Mobile view of solution](./mobile.png)
+![Mobile view of solution](./mobile.jpg)
 
 
 
